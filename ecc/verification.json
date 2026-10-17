@@ -1,0 +1,15 @@
+{
+  "project_id": "cardstracker-legal",
+  "validation_scope": "documentation file integrity only; no independent legal review",
+  "required_checks": [
+    {
+      "id": "legal-docs-present",
+      "files": [
+        "PRIVACY_POLICY.md",
+        "TERMS_OF_SERVICE.md",
+        "DELETE_ACCOUNT.md",
+        "README.md"
+      ]
+    }
+  ]
+}
